@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/ShadowgamingF/Unlimited-Filter-Bot",
+    "repository": "https://github.com/ShadowgamingF",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "WEBHOOK": {
